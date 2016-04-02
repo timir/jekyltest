@@ -10,7 +10,7 @@ title: Pritam Borkar
 email: pritamborkar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My blog / journals about news and insights relating to Web design / Technology / Privacy
-baseurl: "/jekyltest" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://timir.github.io/jekyltest" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
